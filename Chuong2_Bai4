@@ -1,0 +1,44 @@
+"1. Kiểu số học (Numeric Types):
+
+int: Số nguyên (ví dụ: 1, -100, 0)
+
+float: Số thực (số thập phân) (ví dụ: 3.14, -0.001)
+
+complex: Số phức (ví dụ: 2 + 3j)
+
+2. Kiểu chuỗi (Text Type):
+
+str: Chuỗi ký tự (ví dụ: "Hello", 'Python')
+
+3. Kiểu logic (Boolean Type):
+
+bool: Giá trị đúng/sai (chỉ có 2 giá trị: True và False)
+
+4. Kiểu dữ liệu tập hợp (Sequence and Collection Types):
+
+list: Danh sách (có thể thay đổi, cho phép phần tử trùng)
+→ Ví dụ: [1, 2, 3]
+
+tuple: Bộ dữ liệu (bất biến, cho phép trùng)
+→ Ví dụ: (1, 2, 3)
+
+range: Dãy số (thường dùng trong vòng lặp)
+→ Ví dụ: range(5)
+
+5. Kiểu ánh xạ (Mapping Type):
+
+dict: Từ điển (cặp khóa - giá trị)
+→ Ví dụ: {"name": "Alice", "age": 25}
+
+6. Kiểu tập hợp (Set Types):
+
+set: Tập hợp (không cho phép trùng, không có thứ tự)
+→ Ví dụ: {1, 2, 3}
+
+frozenset: Tập hợp bất biến
+
+7. Kiểu nhị phân (Binary Types):
+
+bytes, bytearray, memoryview
+→ Dùng để xử lý dữ liệu nhị phân
+"
